@@ -3083,8 +3083,6 @@
                         <li onclick="openExpDataFile(true)" id="openFileMenu"><a href="#"><span class="glyphicon glyphicon-open"></span> Load file</a></li>
                         <li onclick="openExpDataFolderFile()"><a href="#"><span class="glyphicon glyphicon-open"></span> Load folder</a></li>
                         <li onclick="saveExpDataFile()"><a href="#"><span class="glyphicon glyphicon-save"></span> Save</a></li>
-                        <li onclick="saveAgMIPZip()"><a href="#"><span class="glyphicon glyphicon-export"></span> To AgMIP Input Package</a></li>
-                        <li onclick="saveAcebFile()"><a href="#"><span class="glyphicon glyphicon-export"></span> To Aceb</a></li>
                     </ul>
                 </div>
                 <div class="btn-group">
@@ -3102,8 +3100,9 @@
                         Resources <span class="caret"></span>
                     </button>
                     <ul class="dropdown-menu" role="menu">
-                        <li onclick="window.open('https://docs.google.com/document/d/1ezs4uFWI66R-gywdKB56io1YrKVKKTvs-ynFZkebm9k/')"><a href="#"><span class="glyphicon glyphicon-book"></span> User Guide</a></li>
+                        <li onclick="window.open('https://github.com/SCiO-systems/vmapperplus/blob/main/Docs/VMapperPlus-User%20Guide.pdf')"><a href="#"><span class="glyphicon glyphicon-book"></span> User Guide</a></li>
                         <li onclick="window.open('https://docs.google.com/spreadsheets/u/0/d/1MYx1ukUsCAM1pcixbVQSu49NU-LfXg-Dtt-ncLBzGAM/pub?output=html')"><a href="#"><span class="glyphicon glyphicon-book"></span> ICASA Definition</a></li>
+                        <li onclick="window.open('https://www.ebi.ac.uk/ols/index')"><a href="#"><span class="glyphicon glyphicon-book"></span> EMBL-EBI Ontology Lookup Service</a></li>
                     </ul>
                 </div>
 
