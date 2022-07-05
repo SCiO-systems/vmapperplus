@@ -3087,11 +3087,11 @@
                 </div>
                 <div class="btn-group">
                     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-                        Template <span class="caret"></span>
+                        Annotation Data <span class="caret"></span>
                     </button>
                     <ul class="dropdown-menu" role="menu">
-                        <li onclick="openTemplateFile()"><a href="#"><span class="glyphicon glyphicon-open"></span> Load Existing Template</a></li>
-                        <li onclick="saveTemplateFile()"><a href="#"><span class="glyphicon glyphicon-save"></span> Save Template</a></li>
+                        <li onclick="openTemplateFile()"><a href="#"><span class="glyphicon glyphicon-open"></span> Load Existing Annotation File</a></li>
+                        <li onclick="saveTemplateFile()"><a href="#"><span class="glyphicon glyphicon-save"></span> Save Annotations to SC2 File</a></li>
                     </ul>
                 </div>
 
